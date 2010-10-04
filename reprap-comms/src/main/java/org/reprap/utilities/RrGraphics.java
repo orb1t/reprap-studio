@@ -77,11 +77,7 @@ import org.reprap.geometry.polygons.RrPolygon;
 import org.reprap.geometry.polygons.RrPolygonList;
 import org.reprap.gui.StatusMessage;
 import org.reprap.Attributes;
-import javax.media.j3d.Appearance;
-import javax.swing.JComponent;
-import javax.swing.JFrame;
-import javax.vecmath.Color3f;
-import javax.media.j3d.Material;
+
 
 /**
  * Class to plot images of geometrical structures for debugging.

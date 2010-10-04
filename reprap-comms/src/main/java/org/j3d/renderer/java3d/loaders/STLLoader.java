@@ -15,8 +15,8 @@ import java.net.URL;
 import java.io.*;
 import java.net.MalformedURLException;
 import java.awt.Component;
-import javax.media.j3d.*;
-import javax.vecmath.Color3f;
+import *;
+
 
 import com.sun.j3d.loaders.*;
 

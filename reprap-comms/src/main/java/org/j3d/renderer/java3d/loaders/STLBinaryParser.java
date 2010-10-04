@@ -15,7 +15,7 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.awt.Component;
 import java.io.*;
-import javax.swing.ProgressMonitorInputStream;
+
 
 /**
  * Class to parse STL (stereolithography) files in binary format.<p>

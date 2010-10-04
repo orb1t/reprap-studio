@@ -5,7 +5,7 @@ package org.reprap.utilities;
  * 
  * Adrian 20 October 2008
  */
-import javax.swing.filechooser.FileFilter;
+
 import java.io.File;
 
 public class ExtensionFileFilter extends FileFilter 

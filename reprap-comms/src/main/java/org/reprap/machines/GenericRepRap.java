@@ -5,7 +5,7 @@ import com.code.google.reprapstudio.contol.ContinuationEvent;
 import com.code.google.reprapstudio.contol.StatusEvent;
 import java.io.IOException;
 
-import javax.swing.JCheckBoxMenuItem;
+
 import org.reprap.Attributes;
 import org.reprap.CartesianPrinter;
 import org.reprap.Preferences;
@@ -670,7 +670,7 @@ public abstract class GenericRepRap implements CartesianPrinter {
     }
 
 //	/* (non-Javadoc)
-//	 * @see org.reprap.Printer#setLowerShell(javax.media.j3d.Shape3D)
+//	 * @see org.reprap.Printer#setLowerShell()
 //	 */
 //	public void setLowerShell(BranchGroup ls)
 //	{

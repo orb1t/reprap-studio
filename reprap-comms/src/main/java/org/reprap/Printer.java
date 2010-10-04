@@ -2,7 +2,6 @@ package org.reprap;
 
 import java.io.IOException;
 
-import javax.swing.JCheckBoxMenuItem;
 import org.reprap.geometry.LayerRules;
 import org.reprap.devices.GenericStepperMotor;
 
@@ -392,7 +391,7 @@ public interface Printer {
 	 * Tell the printer it's been cancelled
 	 * @param c
 	 */
-	public void setCancelled(boolean c);
+	public void setCancelled();
 	
 	/**
 	 * Wait while the motors move about

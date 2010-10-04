@@ -10,9 +10,7 @@ import java.util.Properties;
 import java.util.Enumeration;
 import java.util.List;
 import java.util.ArrayList;
-import javax.media.j3d.Appearance;
-import javax.media.j3d.Material;
-import javax.vecmath.Color3f;
+
 import org.reprap.utilities.Debug;
 
 /**

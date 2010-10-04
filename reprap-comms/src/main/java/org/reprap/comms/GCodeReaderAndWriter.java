@@ -1,7 +1,7 @@
 package org.reprap.comms;
 
-import javax.swing.JFileChooser;
-import javax.swing.filechooser.FileFilter;
+
+
 
 import java.io.File;
 import java.io.FileNotFoundException;

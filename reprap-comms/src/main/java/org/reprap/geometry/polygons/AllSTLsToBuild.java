@@ -8,12 +8,12 @@ import org.reprap.Attributes;
 import org.reprap.Extruder;
 import org.reprap.Preferences;
 import org.reprap.utilities.Debug;
-import javax.media.j3d.BranchGroup;
-import javax.media.j3d.GeometryArray;
-import javax.media.j3d.Group;
-import javax.media.j3d.SceneGraphObject;
-import javax.media.j3d.Shape3D;
-import javax.media.j3d.Transform3D;
+
+
+
+
+
+
 import javax.vecmath.Point3d;
 import javax.vecmath.Tuple3d;
 

@@ -16,7 +16,7 @@ import java.net.URLConnection;
 import java.awt.Component;
 import java.io.*;
 import java.util.*;
-import javax.swing.ProgressMonitorInputStream;
+
 
 /**
  * Class to parse STL (stereolithography) files in ASCII format.<p>

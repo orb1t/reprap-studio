@@ -23,8 +23,6 @@ import org.xml.sax.helpers.XMLReaderFactory;
 import org.xml.sax.helpers.DefaultHandler;
 
 
-import javax.media.j3d.Transform3D;
-import javax.media.j3d.TransformGroup;
 import javax.vecmath.Matrix4d;
 //import javax.vecmath.Matrix3d;
 //import javax.vecmath.Point3d;

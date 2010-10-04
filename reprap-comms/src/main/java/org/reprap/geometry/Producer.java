@@ -1,6 +1,6 @@
 package org.reprap.geometry;
 
-import javax.swing.JCheckBoxMenuItem;
+
 import org.reprap.Preferences;
 import org.reprap.Printer;
 import org.reprap.geometry.polygons.Rr2Point;

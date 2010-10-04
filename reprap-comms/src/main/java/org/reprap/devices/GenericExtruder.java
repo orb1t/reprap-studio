@@ -7,9 +7,9 @@ import org.reprap.Extruder;
 import org.reprap.Printer;
 import org.reprap.geometry.LayerRules;
 import org.reprap.utilities.Debug;
-import javax.media.j3d.Appearance;
-import javax.vecmath.Color3f;
-import javax.media.j3d.Material;
+
+
+
 
 /**
  * @author jwiel
