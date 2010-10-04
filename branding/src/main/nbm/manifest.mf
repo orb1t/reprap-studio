@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/google/code/reprapstudio/Bundle.properties
+OpenIDE-Module-Layer: com/google/code/reprapstudio/layer.xml
